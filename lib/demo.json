@@ -1,0 +1,74 @@
+
+
+[
+    {
+        "id": 1,
+        "name": "María Sánchez",
+        "age": 30,
+        "job": "Contabilidad",
+        "email": "m.sanchez@example.com"
+    },
+    {
+        "id": 2,
+        "name": "Juan Rodríguez",
+        "age": 28,
+        "job": "Recursos Humanos",
+        "email": "j.rodriguez@example.com"
+    },
+    {
+        "id": 3,
+        "name": "Laura González",
+        "age": 35,
+        "job": "Ventas",
+        "email": "l.gonzalez@example.com"
+    },
+    {
+        "id": 4,
+        "name": "Carlos Martínez",
+        "age": 32,
+        "job": "Marketing",
+        "email": "c.martinez@example.com"
+    },
+    {
+        "id": 5,
+        "name": "Andrea López",
+        "age": 27,
+        "job": "Desarrollo de Producto",
+        "email": "a.lopez@example.com"
+    },
+    {
+        "id": 6,
+        "name": "Pablo Fernández",
+        "age": 29,
+        "job": "Soporte Técnico",
+        "email": "p.fernandez@example.com"
+    },
+    {
+        "id": 7,
+        "name": "Ana Pérez",
+        "age": 33,
+        "job": "Investigación y Desarrollo",
+        "email": "a.perez@example.com"
+    },
+    {
+        "id": 8,
+        "name": "David Gómez",
+        "age": 31,
+        "job": "Servicio al Cliente",
+        "email": "d.gomez@example.com"
+    },
+    {
+        "id": 9,
+        "name": "Patricia Ruiz",
+        "age": 26,
+        "job": "Producción",
+        "email": "p.ruiz@example.com"
+    },
+    {
+        "id": 10,
+        "name": "Sergio Díaz",
+        "age": 34,
+        "job": "Logística",
+        "email": "s.diaz@example.com"
+    }
+]
