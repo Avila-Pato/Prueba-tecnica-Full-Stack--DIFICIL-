@@ -8,7 +8,7 @@ El propósito de esta prueba es evaluar tus habilidades en desarrollo Backend y 
 
 - **Tienes 48 horas para completar la prueba.** NO subas ningún código después de entregarlo en este sistema.
 - **Tu solución DEBE incluir pruebas automatizadas** tanto para el frontend como para el backend. Tener una buena cobertura y probar todas las funciones es parte de la prueba.
-- Debes enviar tu solución como un **repositorio PRIVADO en GitHub** e invitar a **projects@shawandpartners.com** como colaborador. También puedes intentarlo con el nombre de usuario **sp-tests**.
+- Debes enviar tu solución como un **repositorio PRIVADO en GitHub** e invitar a **usuariodesconosido.com** como colaborador. También puedes intentarlo con el nombre de usuario **sp-tests**.
 - **NO crees 2 repositorios**, asegúrate de incluir todo el código en el mismo repositorio de GitHub. Crea una carpeta "frontend" y "backend" dentro de tu repositorio y codifica directamente dentro de ellas.
 - El Frontend y el Backend deben funcionar simplemente ejecutando **"npm install" seguido de "npm run dev"** (para ejecutar la aplicación) o **"npm run test"** (para ejecutar todas las pruebas).
 - **NO agregues instrucciones adicionales o comandos de Docker en el readme**, si algo más necesita ser ejecutado antes de iniciar la aplicación, asegúrate de incluirlo en tu script de desarrollo.
