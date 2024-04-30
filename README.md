@@ -42,11 +42,3 @@ El propósito de esta prueba es evaluar tus habilidades en desarrollo Backend y 
         - Esta ruta debe devolver el estado 200 y un objeto con la clave "data" con un array de objetos dentro de él.
         - O esta ruta debe devolver el estado 500 y un objeto con la clave "message" con un mensaje de error en el valor.
 
-**Evaluación**
-
-- Evaluaremos tu solución en función de los siguientes criterios:
-    - Completitud de todas las características y funcionalidades requeridas.
-    - Calidad y organización del código.
-    - Calidad y cobertura de las pruebas automatizadas.
-    - Amigabilidad y capacidad de respuesta del frontend.
-    - Rendimiento y eficiencia del backend.
